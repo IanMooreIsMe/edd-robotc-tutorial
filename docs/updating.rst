@@ -2,7 +2,7 @@ Updating the Cortex and Controller
 ==================================
 
 It is important to stay up to date of firmware updates for both the VEX 2.0 Cortex and Controller.
-Firmware updates often fix bugs and can sometimes add new features that are only available in newer versions of RobotC.
+Firmware updates often fix bugs and can sometimes add new features that are only available in newer versions of ROBOTC.
 Updating these devices is easy.
 
 Updating the Cortex

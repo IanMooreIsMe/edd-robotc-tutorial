@@ -19,7 +19,7 @@ import os
 
 # -- Project information -----------------------------------------------------
 
-project = 'RobotC Tutorial'
+project = 'ROBOTC Tutorial'
 copyright = '2018, Ian Moore'
 author = 'Ian Moore'
 
@@ -74,7 +74,7 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'default'
+html_theme = 'alabaster'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -101,7 +101,7 @@ html_static_path = ['.static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'RobotCTutorialdoc'
+htmlhelp_basename = 'ROBOTCTutorialdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -128,7 +128,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'RobotCTutorial.tex', 'RobotC Tutorial Documentation',
+    (master_doc, 'ROBOTCTutorial.tex', 'ROBOTC Tutorial Documentation',
      'Ian Moore', 'manual'),
 ]
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'robotctutorial', 'RobotC Tutorial Documentation',
+    (master_doc, 'robotctutorial', 'ROBOTC Tutorial Documentation',
      [author], 1)
 ]
 
@@ -149,8 +149,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'RobotCTutorial', 'RobotC Tutorial Documentation',
-     author, 'RobotCTutorial', 'One line description of project.',
+    (master_doc, 'ROBOTCTutorial', 'ROBOTC Tutorial Documentation',
+     author, 'ROBOTCTutorial', 'One line description of project.',
      'Miscellaneous'),
 ]
 
