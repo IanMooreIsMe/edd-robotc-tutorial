@@ -13,6 +13,7 @@ Welcome to ROBOTC Tutorial's documentation!
    setup
    updating
    first
+   second
 
 
 Indices and tables
